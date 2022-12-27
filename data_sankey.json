@@ -2,11 +2,11 @@
   "nodes": [
     {
       "node": 0,
-      "name": "node0"
+      "name": "A0"
     },
     {
       "node": 1,
-      "name": "node1"
+      "name": "A0.25"
     },
     {
       "node": 2,
@@ -18,7 +18,7 @@
     },
     {
       "node": 4,
-      "name": "node4"
+      "name": "Prod"
     }
   ],
   "links": [
